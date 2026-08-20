@@ -1,6 +1,6 @@
 {
   "name": "@roshan6335/mcpsentry",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Security scanner and runtime proxy for Model Context Protocol (MCP) servers — catches tool poisoning, prompt injection, and silent behavior drift before they reach your AI agent.",
   "type": "module",
   "bin": {
@@ -31,5 +31,12 @@
   },
   "license": "MIT",
   "mcpName": "io.github.Roshan6335/mcpsentry",
-  "keywords": ["mcp", "security", "ai-agents", "prompt-injection", "tool-poisoning", "model-context-protocol"]
+  "keywords": [
+    "mcp",
+    "security",
+    "ai-agents",
+    "prompt-injection",
+    "tool-poisoning",
+    "model-context-protocol"
+  ]
 }
