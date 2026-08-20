@@ -1,0 +1,7 @@
+{
+  "name": "io.github.Roshan6335/mcpsentry",
+  "description": "Security scanner and runtime proxy for MCP servers",
+  "packages": [
+    { "registry": "npm", "identifier": "mcpsentry", "transport": "stdio" }
+  ]
+}
