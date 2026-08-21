@@ -1,7 +1,16 @@
 {
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-07-09/server.schema.json",
   "name": "io.github.Roshan6335/mcpsentry",
-  "description": "Security scanner and runtime proxy for MCP servers",
+  "description": "Security scanner and runtime proxy for MCP servers.",
+  "version": "0.1.2",
   "packages": [
-    { "registry": "npm", "identifier": "mcpsentry", "transport": "stdio" }
+    {
+      "registryType": "npm",
+      "identifier": "@roshan6335/mcpsentry",
+      "version": "0.1.2",
+      "transport": {
+        "type": "stdio"
+      }
+    }
   ]
 }
