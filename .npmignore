@@ -1,0 +1,8 @@
+node_modules/
+src/
+test-fixtures/
+mcp-publisher.exe
+mcp-publisher.tar.gz
+tsconfig.json
+server.json
+*.log

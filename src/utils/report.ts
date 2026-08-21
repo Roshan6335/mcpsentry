@@ -11,7 +11,7 @@ const SEVERITY_COLOR: Record<string, (s: string) => string> = {
 
 export function printReport(report: ScanReport, drift?: DriftResult) {
   console.log();
-  console.log(chalk.bold(`mcp-guard scan report`) + chalk.dim(`  —  ${report.serverCommand}`));
+  console.log(chalk.bold(`mcpsentry scan report`) + chalk.dim(`  —  ${report.serverCommand}`));
   console.log(chalk.dim(`${report.toolCount} tool(s) discovered · ${report.scannedAt}`));
   console.log();
 
