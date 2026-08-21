@@ -1,6 +1,6 @@
 {
   "name": "@roshan6335/mcpsentry",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Security scanner and runtime proxy for MCP servers.",
   "type": "module",
   "bin": {
